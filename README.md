@@ -12,4 +12,4 @@
 
 # submission 結果
 
-![image](https://github.com/user-attachments/assets/0cc8c564-81cf-4a21-91d5-35d5c5902661)
+![image](https://github.com/user-attachments/assets/174f7f23-2df4-4923-9b4f-c4fb06455c7d)
