@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/24989a5a-112b-4a8a-9dd2-40b3d32d6553)
 
 
-# submission 結果
+# Score on Kaggle
 
 ![image](https://github.com/user-attachments/assets/f67b13b1-c09b-42c2-a3c9-e8bc07b80482)
 
