@@ -1,4 +1,4 @@
-# Plant-Seedlings-Classification
+
 # training/validation loss curve
 
 ![image](https://github.com/user-attachments/assets/8285597f-cc11-40fa-9fe7-2b9d5e71f0d9)
